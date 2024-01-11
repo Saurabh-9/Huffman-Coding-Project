@@ -11,9 +11,14 @@ Features
 **How to Use**
 
 **1.Clone the Repository:**
+
 <img width="607" alt="image" src="https://github.com/Saurabh-9/Huffman-Coding-Project-C-/assets/96305673/c8171dd1-b864-4f78-a676-80e4939256eb">
+
 **2.Compile and Run:**
+
 <img width="607" alt="image" src="https://github.com/Saurabh-9/Huffman-Coding-Project-C-/assets/96305673/f90d914a-505b-47d1-be4c-b748ba58b9e3">
+
+
 **3.Follow Console Prompts:**
 Input the number of symbols, characters, and their frequencies as prompted.
 The program will demonstrate the Huffman coding process, including encoding and decoding.
